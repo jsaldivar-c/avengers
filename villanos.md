@@ -4,4 +4,4 @@
 
 - Dr. Doom
 - Red Skull
-- Kratos
+- Capitan America
